@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aquaori0609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aquaori0609" height="30" width="40" /></a>
+<a href="mailto://2432856811@qq.com">📫</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
