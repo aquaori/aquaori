@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aquaori</h1>
-<h3 align="center">A student from China who is studying at Guang Dong Ocean University (GDOU) currently.</h3>
+<h3 align="center">A student & a developer from China.</h3>
 
 - 🏫 I’m currently studying at [Guang Dong Ocean University (GDOU)](https://www.gdou.edu.cn/)
 
