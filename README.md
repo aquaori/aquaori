@@ -25,6 +25,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [从静态分析到AI复核：Deplens分析能力的一次补完](https://lumirant.top/blog/deplens-from-static-analysis-to-ai-review)
+- [V8的内存管理与回收](https://lumirant.top/blog/v8-memory-manage)
+- [对Aevia的技术细节剖析](https://lumirant.top/blog/about-aevia)
+- [由一个经典问题引发的对V8底层的深度探索](https://lumirant.top/blog/v8-underlying-data-structures)
+- [对Deplens技术细节的剖析](https://lumirant.top/blog/about-deplens)
 <!-- BLOG-POST-LIST:END -->
 
 
