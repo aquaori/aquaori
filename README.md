@@ -21,6 +21,7 @@
 
 - ⚡ If you want to be my feriends, **contact me now!**
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aquaori&hide_title=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=aquaori&hide_title=true&include_all_commits=true)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aquaori&layout=compact&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=aquaori&layout=compact&langs_count=4)
 
 📕 &nbsp;**Latest Blog Posts**
