@@ -26,11 +26,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [在AI时代重新认识编程与未来](https://lumirant.top/blog/ai-guide-for-freshman)
 - [Aevia测试系统的迭代史](https://lumirant.top/blog/aevia-testing-system-evolution)
 - [从静态分析到AI复核：Deplens分析能力的一次补完](https://lumirant.top/blog/deplens-from-static-analysis-to-ai-review)
 - [V8的内存管理与回收](https://lumirant.top/blog/v8-memory-manage)
 - [对Aevia的技术细节剖析](https://lumirant.top/blog/about-aevia)
-- [由一个经典问题引发的对V8底层的深度探索](https://lumirant.top/blog/v8-underlying-data-structures)
 <!-- BLOG-POST-LIST:END -->
 
 
