@@ -26,11 +26,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [2026/06/16 小红书AI全栈一面](https://lumirant.top/blog/20260616-xhs-ai-full-stack-interview)
 - [在AI时代重新认识编程与未来](https://lumirant.top/blog/ai-guide-for-freshman)
 - [Aevia测试系统的迭代史](https://lumirant.top/blog/aevia-testing-system-evolution)
 - [从静态分析到AI复核：Deplens分析能力的一次补完](https://lumirant.top/blog/deplens-from-static-analysis-to-ai-review)
 - [V8的内存管理与回收](https://lumirant.top/blog/v8-memory-manage)
-- [对Aevia的技术细节剖析](https://lumirant.top/blog/about-aevia)
 <!-- BLOG-POST-LIST:END -->
 
 
