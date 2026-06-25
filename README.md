@@ -32,6 +32,7 @@
 - [Aevia测试系统的迭代史](https://lumirant.top/blog/aevia-testing-system-evolution)
 - [从静态分析到AI复核：Deplens分析能力的一次补完](https://lumirant.top/blog/deplens-from-static-analysis-to-ai-review)
 <!-- BLOG-POST-LIST:END -->
+- [More Posts](https://lumirant.top/blog)
 
 
 <h3 align="left">Connect with me:</h3>
