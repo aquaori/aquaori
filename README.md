@@ -26,11 +26,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [2026/06/25 美图KOOZEE一面](https://lumirant.top/blog/20260625-meitu-koozee-interview)
 - [2026/06/24 小红书AI全栈二面](https://lumirant.top/blog/20260624-xhs-ai-full-stack-interview)
 - [2026/06/16 小红书AI全栈一面](https://lumirant.top/blog/20260616-xhs-ai-full-stack-interview)
 - [在AI时代重新认识编程与未来](https://lumirant.top/blog/ai-guide-for-freshman)
 - [Aevia测试系统的迭代史](https://lumirant.top/blog/aevia-testing-system-evolution)
-- [从静态分析到AI复核：Deplens分析能力的一次补完](https://lumirant.top/blog/deplens-from-static-analysis-to-ai-review)
 <!-- BLOG-POST-LIST:END -->
 - [More Posts](https://lumirant.top/blog)
 
