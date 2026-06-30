@@ -16,4 +16,14 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://lumirant.top/rss.xml"
+          feed_list: "https://luminart.top/rss.xml"
+          max_post_count: 5
+          item_exec: |
+            const allowTags = ['技术'];
+            const categories = Array.isArray(post.categories)
+              ? post.categories.map(tag => String(tag).trim())
+              : [];
+      
+            if (!categories.some(tag => allowTags.includes(tag))) {
+              post = null;
+            }
