@@ -16,7 +16,7 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://luminart.top/rss.xml"
+          feed_list: "https://lumirant.top/rss.xml"
           max_post_count: 5
           item_exec: |
             const excludeTags = ['面经', '指南', '生活'];
