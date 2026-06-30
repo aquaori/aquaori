@@ -19,11 +19,11 @@ jobs:
           feed_list: "https://luminart.top/rss.xml"
           max_post_count: 5
           item_exec: |
-            const allowTags = ['技术'];
+            const excludeTags = ['面经', '指南', '生活'];
             const categories = Array.isArray(post.categories)
               ? post.categories.map(tag => String(tag).trim())
               : [];
       
-            if (!categories.some(tag => allowTags.includes(tag))) {
+            if (categories.some(tag => excludeTags.includes(tag))) {
               post = null;
             }
