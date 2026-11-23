@@ -6,11 +6,11 @@
  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript&logoColor=white&color=black" />
 </h3>
 
-- 🏫 I’m currently studying at [Guang Dong Ocean University (GDOU)](https://www.gdou.edu.cn/)
+- 🏫 I’m currently studying at [(GDOU)](https://www.gdou.edu.cn/)
 
-- 🌱 I’m currently learning **Industrial engineering (IE)**
+- 🌱 I’m fascinated by **Frontend & AI Agent Engineering**
 
-- 👨‍💻 In my spare time, I am studying **C, JavaScript, TypeScript,etc.**
+- 👨‍💻 In my spare time, I am studying **C, JavaScript, TypeScript, Golang,etc.**
 
 - 📝 I regularly write articles on [https://blog.lumirant.top](https://blog.lumirant.top)
 
